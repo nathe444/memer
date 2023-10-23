@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/memer/static/js/main.d6819f07.js",
+    "index.html": "/memer/index.html",
+    "main.d6819f07.js.map": "/memer/static/js/main.d6819f07.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d6819f07.js"
+  ]
+}
